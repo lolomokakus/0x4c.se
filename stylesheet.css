@@ -1,3 +1,7 @@
+body {
+  background-color: #ffffff;
+}
+
 #main {
   position: absolute;
   top: 0px;
