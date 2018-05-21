@@ -1,0 +1,3 @@
+[submodule "legit-password-test"]
+	path = legit-password-test
+	url = https://github.com/zeroxfourc/legit-password-test
