@@ -8,6 +8,7 @@
 <body>
 	<div id="helheten">
 	<?php
+		set_include_path(".:/usr/share/phpqrcode");
 		include("qrlib.php");
 		
 		$repliker = file("repliker.txt");
